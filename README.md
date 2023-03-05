@@ -39,6 +39,10 @@
           <td><a href="https://github.com/Leovambarii/GameOfLife">:joystick: Game of Life</a></td>
           <td>A Game of Life implementation in Python with tkinter GUI.</td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/Leovambarii/Melody-Sounds">:notes: Melody Sounds</a></td>
+          <td>A small project in Python with tkinter GUI that creates a satysfying melody.</td>
+        </tr>
       </tbody>
     </table>
   </p>
