@@ -51,7 +51,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jakub-ostrowski-152672239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jakub-ostrowski-152672239/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jakub-152672239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jakub-ostrowski-152672239/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ksprp121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ksprp121" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leova" height="30" width="40" /></a>
 </p>
