@@ -5,6 +5,7 @@
   <p>
     <h2> Currently working on </h2>
     - 🌱 I’m currently learning Java, JavaScript and React.js.
+    - :sparkles: I'm looking for an internship
   </p>
   
   <p align="center">
