@@ -14,7 +14,7 @@
 </p>
   
   <p>
-    <h2>My Pinned Projects</h2>
+    <h2>Some of my projects</h2>
     <table>
       <thead>
         <tr>
