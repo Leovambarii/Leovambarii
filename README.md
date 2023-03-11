@@ -44,6 +44,10 @@
           <td><a href="https://github.com/Leovambarii/Melody-Sounds">:notes: Melody Sounds</a></td>
           <td>A small project in Python with tkinter GUI that creates a satysfying melody.</td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/Leovambarii/DziennikUJ">:notebook: Virtual school gradebook</a></td>
+          <td>A project design and creation compleated as a team written using EJS/Node.js and MySQL.</td>
+        </tr>
       </tbody>
     </table>
   </p>
