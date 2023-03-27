@@ -33,16 +33,16 @@
           <td>A fictional online lessons website written in HTML, CSS and JS.</td>
         </tr>
         <tr>
+          <td><a href="https://github.com/Leovambarii/Sorting_Visualizer">:part_alternation_mark: Sorting Visualizer</a></td>
+          <td>A sorting visualizer in Python with custom tkiner GUI.</td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/Leovambarii/Kruskal-algorithm-labirynt">:mag: Maze generator</a></td>
           <td>Maze generator written in C++ that uses Kruskal's Algorithm.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/Leovambarii/GameOfLife">:joystick: Game of Life</a></td>
           <td>A Game of Life implementation in Python with tkinter GUI.</td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/Leovambarii/Melody-Sounds">:notes: Melody Sounds</a></td>
-          <td>A small project in Python with tkinter GUI that creates a satysfying melody.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/Leovambarii/DziennikUJ">:notebook: School gradebook</a></td>
