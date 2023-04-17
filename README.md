@@ -34,7 +34,7 @@
         </tr>
         <tr>
           <td><a href="https://github.com/Leovambarii/Sorting_Visualizer">:part_alternation_mark: Sorting Visualizer</a></td>
-          <td>A sorting visualizer app in Python with custom tkiner GUI.</td>
+          <td>A sorting visualizer app in Python with custom tkinter GUI.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/Leovambarii/Kruskal-algorithm-labirynt">:mag: Maze generator</a></td>
