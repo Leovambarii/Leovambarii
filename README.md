@@ -4,8 +4,7 @@
 <div align="center">
   <p>
     <h2> Currently working on </h2>
-     🌱 I’m currently learning Go <br>
-     :sparkles: I'm trying to get an internship
+     🌱 I’m currently learning bash scripting <br>
   </p>
   
   <p align="center">
