@@ -4,7 +4,7 @@
 <div align="center">
   <p>
     <h2> Currently working on </h2>
-     🌱 I’m currently learning bash scripting <br>
+     🌱 I’m currently learning bash/tcsh scripting <br>
   </p>
   
   <p align="center">
