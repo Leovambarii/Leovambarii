@@ -71,9 +71,5 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leovambarii&show_icons=true&locale=en&layout=compact" alt="leovambarii" />  </p>
 </div>
 <div align="center">
-  <p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovambarii&show_icons=true&locale=en" alt="leovambarii" />
-  </p>
 </div>
 
