@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Jacob</h1>
-<h3 align="center">A third year computer science student at the Jagiellonian University :mortar_board:</h3>
+<h3 align="center">A fourth year applied computer science student at the Jagiellonian University :mortar_board:</h3>
 
 <div align="center">
   <p>
     <h2> Currently working on </h2>
-     🌱 I’m currently learning perl scripting <br>
+     🌱 I’m currently learning machine learning <br>
   </p>
   
   <p align="center">
